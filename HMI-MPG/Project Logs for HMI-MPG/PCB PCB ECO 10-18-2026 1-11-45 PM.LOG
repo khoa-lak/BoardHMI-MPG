@@ -1,0 +1,107 @@
+Added Component: Designator=BT?(Nut Nhan 4 Chan SMD 6x6)
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH002424"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten"; Value = "Nút Nh?n 4 Chân 6.2x6.2x3.1MM SMD"; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOIC8_50_328_25X90_SMT)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "SOIC8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fujitsu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MB85RC256VPF-G-JNERE2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "C126728"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=M??-20
+Added Pin To Net: NetName=3.3V Pin=M??-38
+Added Pin To Net: NetName=3.3V Pin=M??-41
+Added Pin To Net: NetName=3.3V Pin=U?-8
+Added Net: Name=3.3V
+Added Pin To Net: NetName=5V Pin=M??-18
+Added Pin To Net: NetName=5V Pin=M??-40
+Added Net: Name=5V
+Added Pin To Net: NetName=GND Pin=M??-19
+Added Pin To Net: NetName=GND Pin=M??-39
+Added Pin To Net: NetName=GND Pin=M??-44
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Pin To Net: NetName=GND Pin=U?-7
+Added Net: Name=GND
+Added Pin To Net: NetName=NetBT?_1 Pin=BT?-1
+Added Pin To Net: NetName=NetBT?_1 Pin=BT?-3
+Added Net: Name=NetBT?_1
+Added Pin To Net: NetName=NetBT?_2 Pin=BT?-2
+Added Pin To Net: NetName=NetBT?_2 Pin=BT?-4
+Added Net: Name=NetBT?_2
+Added Pin To Net: NetName=PA0 Pin=M??-26
+Added Net: Name=PA0
+Added Pin To Net: NetName=PA1 Pin=M??-27
+Added Net: Name=PA1
+Added Pin To Net: NetName=PA2 Pin=M??-28
+Added Net: Name=PA2
+Added Pin To Net: NetName=PA3 Pin=M??-29
+Added Net: Name=PA3
+Added Pin To Net: NetName=PA4 Pin=M??-30
+Added Net: Name=PA4
+Added Pin To Net: NetName=PA5 Pin=M??-31
+Added Net: Name=PA5
+Added Pin To Net: NetName=PA6 Pin=M??-32
+Added Net: Name=PA6
+Added Pin To Net: NetName=PA7 Pin=M??-33
+Added Net: Name=PA7
+Added Pin To Net: NetName=PA8 Pin=M??-5
+Added Net: Name=PA8
+Added Pin To Net: NetName=PA9 Pin=M??-6
+Added Net: Name=PA9
+Added Pin To Net: NetName=PA10 Pin=M??-7
+Added Net: Name=PA10
+Added Pin To Net: NetName=PA11 Pin=M??-8
+Added Net: Name=PA11
+Added Pin To Net: NetName=PA12 Pin=M??-9
+Added Net: Name=PA12
+Added Pin To Net: NetName=PA13 Pin=M??-42
+Added Net: Name=PA13
+Added Pin To Net: NetName=PA14 Pin=M??-43
+Added Net: Name=PA14
+Added Pin To Net: NetName=PA15 Pin=M??-10
+Added Net: Name=PA15
+Added Pin To Net: NetName=PB0 Pin=M??-34
+Added Net: Name=PB0
+Added Pin To Net: NetName=PB1 Pin=M??-35
+Added Net: Name=PB1
+Added Pin To Net: NetName=PB2 Pin=M??-36
+Added Net: Name=PB2
+Added Pin To Net: NetName=PB3 Pin=M??-11
+Added Net: Name=PB3
+Added Pin To Net: NetName=PB4 Pin=M??-12
+Added Net: Name=PB4
+Added Pin To Net: NetName=PB5 Pin=M??-13
+Added Net: Name=PB5
+Added Pin To Net: NetName=PB6 Pin=M??-14
+Added Net: Name=PB6
+Added Pin To Net: NetName=PB7 Pin=M??-15
+Added Net: Name=PB7
+Added Pin To Net: NetName=PB8 Pin=M??-16
+Added Pin To Net: NetName=PB8 Pin=U?-6
+Added Net: Name=PB8
+Added Pin To Net: NetName=PB9 Pin=M??-17
+Added Pin To Net: NetName=PB9 Pin=U?-5
+Added Net: Name=PB9
+Added Pin To Net: NetName=PB10 Pin=M??-37
+Added Net: Name=PB10
+Added Pin To Net: NetName=PB12 Pin=M??-1
+Added Net: Name=PB12
+Added Pin To Net: NetName=PB13 Pin=M??-2
+Added Net: Name=PB13
+Added Pin To Net: NetName=PB14 Pin=M??-3
+Added Net: Name=PB14
+Added Pin To Net: NetName=PB15 Pin=M??-4
+Added Net: Name=PB15
+Added Pin To Net: NetName=PC13 Pin=M??-22
+Added Net: Name=PC13
+Added Pin To Net: NetName=PC14 Pin=M??-23
+Added Net: Name=PC14
+Added Pin To Net: NetName=PC15 Pin=M??-24
+Added Net: Name=PC15
+Added Pin To Net: NetName=RST Pin=M??-25
+Added Net: Name=RST
+Added Member To Class: ClassName=Schematic Member=Component BT? Nut Nhan 4 Chan SMD 6x6
+Added Member To Class: ClassName=Schematic Member=Component U? MB85RC256VP

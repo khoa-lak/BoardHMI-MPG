@@ -1,0 +1,47 @@
+Change Component Designator: OldDesignator=BT? NewDesignator=BT1
+Change Component Designator: OldDesignator=M?? NewDesignator=M1
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Description : Designator=U1 Old Description=FRAM (Ferroelectric RAM) Memory IC 256Kb (32K x 8) I²C 1MHz 550ns 8-SOP New Description=FRAM (Ferroelectric RAM) Memory IC 256Kb (32K x 8) I²C 1MHz 550ns 8-SOP
+
+Added Component: Designator=BT2(Nut Nhan 4 Chan SMD 6x6)
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH002424"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten"; Value = "Nút Nh?n 4 Chân 6.2x6.2x3.1MM SMD"; VariantName = "[No Variations]"
+Added Component: Designator=R1(tro smd 0603)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006334"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0603 1% 1k"; VariantName = "[No Variations]"
+Added Component: Designator=R2(tro smd 0603)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006334"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0603 1% 1k"; VariantName = "[No Variations]"
+Added Component: Designator=S1(FSMRA4JH04)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/FSMRA4JH04/TE+Connectivity/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FSMRA4JH04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FSMRA4JH04/TE+Connectivity/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=BT1-1
+Added Pin To Net: NetName=GND Pin=BT1-3
+Added Pin To Net: NetName=GND Pin=BT2-1
+Added Pin To Net: NetName=PA2 Pin=BT2-2
+Added Pin To Net: NetName=GND Pin=BT2-3
+Added Pin To Net: NetName=PA2 Pin=BT2-4
+Added Pin To Net: NetName=3.3V Pin=R1-2
+Added Pin To Net: NetName=PA2 Pin=R2-1
+Added Pin To Net: NetName=3.3V Pin=R2-2
+Added Pin To Net: NetName=L-BTN Pin=BT1-2
+Added Pin To Net: NetName=L-BTN Pin=BT1-4
+Added Pin To Net: NetName=L-BTN Pin=M1-27
+Added Pin To Net: NetName=L-BTN Pin=R1-1
+Added Net: Name=L-BTN
+Added Member To Class: ClassName=Schematic Member=Component BT2 Nut Nhan 4 Chan SMD 6x6
+Added Member To Class: ClassName=Schematic Member=Component R1 1k
+Added Member To Class: ClassName=Schematic Member=Component R2 1k
+Added Member To Class: ClassName=Schematic Member=Component S1 FSMRA4JH04

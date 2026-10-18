@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=3.3V Pin=R1-2
+Removed Pin From Net: NetName=3.3V Pin=R5-2
+Removed Pin From Net: NetName=CD Pin=R6-1
+Removed Pin From Net: NetName=3.3V Pin=R6-2
+Removed Pin From Net: NetName=CMD Pin=S1-3
+Removed Pin From Net: NetName=3.3V Pin=S1-4
+Removed Pin From Net: NetName=CK Pin=S1-5
+Removed Pin From Net: NetName=GND Pin=S1-6
+Removed Pin From Net: NetName=D0 Pin=S1-7
+Removed Pin From Net: NetName=CD Pin=S1-9
+Removed Member From Class: ClassName=Schematic Member=P?
+Removed Member From Class: ClassName=Schematic Member=S6
+Change Component Comment : Designator=R6 Old Comment=1k New Comment=10k
+Change Component Comment : Designator=R3 Old Comment=10k New Comment=1k
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Change Component Designator: OldDesignator=R4 NewDesignator=R2
+Change Component Designator: OldDesignator=R7 NewDesignator=R4
+Change Component Designator: OldDesignator=S2 NewDesignator=S1
+Change Component Designator: OldDesignator=S3 NewDesignator=S2
+Change Component Designator: OldDesignator=S4 NewDesignator=S3
+Change Component Designator: OldDesignator=S5 NewDesignator=S4
+Change Component Designator: OldDesignator=S6 NewDesignator=S5
+Change component parameters: Designator = "R3" ("R3"); Footprint = "tro smd 0603"; UniqueID = "\NSVHATHL" ("\NSVHATHL")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH006334"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0603 1% 1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "tro smd 0603"; UniqueID = "\VIDUBZAQ" ("\VIDUBZAQ")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH006333"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0603 1% 10k"; VariantName = "[No Variations]"
+Added Component: Designator=R7(tro smd 0603)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006333"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0603 1% 10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CMD Pin=J1-P3
+Added Pin To Net: NetName=3.3V Pin=J1-P4
+Added Pin To Net: NetName=CK Pin=J1-P5
+Added Pin To Net: NetName=GND Pin=J1-P6
+Added Pin To Net: NetName=D0 Pin=J1-P7
+Added Pin To Net: NetName=CD Pin=J1-P9
+Added Pin To Net: NetName=GND Pin=J1-SH1
+Added Pin To Net: NetName=GND Pin=J1-SH2
+Added Pin To Net: NetName=GND Pin=J1-SH3
+Added Pin To Net: NetName=GND Pin=J1-SH4
+Added Pin To Net: NetName=CD Pin=R3-1
+Added Pin To Net: NetName=3.3V Pin=R5-1
+Added Pin To Net: NetName=3.3V Pin=R6-1
+Added Pin To Net: NetName=3.3V Pin=R7-1
+Added Pin To Net: NetName=NetJ1_P1 Pin=J1-P1
+Added Pin To Net: NetName=NetJ1_P1 Pin=R6-2
+Added Net: Name=NetJ1_P1
+Added Pin To Net: NetName=NetJ1_P2 Pin=J1-P2
+Added Pin To Net: NetName=NetJ1_P2 Pin=R7-2
+Added Net: Name=NetJ1_P2
+Added Pin To Net: NetName=NetJ1_P8 Pin=J1-P8
+Added Pin To Net: NetName=NetJ1_P8 Pin=R5-2
+Added Net: Name=NetJ1_P8

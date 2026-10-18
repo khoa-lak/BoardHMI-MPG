@@ -1,0 +1,151 @@
+Change Component Designator: OldDesignator=R1 NewDesignator=R5
+Change Component Designator: OldDesignator=R2 NewDesignator=R6
+Change Component Designator: OldDesignator=R3 NewDesignator=R7
+Change Component Designator: OldDesignator=R4 NewDesignator=R8
+Change Component Designator: OldDesignator=R5 NewDesignator=R9
+Change Component Designator: OldDesignator=R6 NewDesignator=R10
+Change Component Designator: OldDesignator=R7 NewDesignator=R11
+Change Component Designator: OldDesignator=R8 NewDesignator=R12
+Change Component Designator: OldDesignator=R9 NewDesignator=R13
+Change Component Designator: OldDesignator=R10 NewDesignator=R14
+Change Component Designator: OldDesignator=R11 NewDesignator=R15
+Change Component Description : Designator=U1 Old Description=FRAM (Ferroelectric RAM) Memory IC 256Kb (32K x 8) I²C 1MHz 550ns 8-SOP New Description=FRAM (Ferroelectric RAM) Memory IC 256Kb (32K x 8) I²C 1MHz 550ns 8-SOP
+
+Change Component Description : Designator=S1 Old Description=Switch,Pushbutton, Tactile, Single Pole, 50mA,Right Angle New Description=Switch,Pushbutton, Tactile, Single Pole, 50mA,Right Angle | TE Connectivity FSMRA4JH04
+Change Component Description : Designator=S2 Old Description=Switch,Pushbutton, Tactile, Single Pole, 50mA,Right Angle New Description=Switch,Pushbutton, Tactile, Single Pole, 50mA,Right Angle | TE Connectivity FSMRA4JH04
+Change Component Description : Designator=S3 Old Description=Switch,Pushbutton, Tactile, Single Pole, 50mA,Right Angle New Description=Switch,Pushbutton, Tactile, Single Pole, 50mA,Right Angle | TE Connectivity FSMRA4JH04
+Change Component Description : Designator=S4 Old Description=Switch,Pushbutton, Tactile, Single Pole, 50mA,Right Angle New Description=Switch,Pushbutton, Tactile, Single Pole, 50mA,Right Angle | TE Connectivity FSMRA4JH04
+Change Component Description : Designator=S5 Old Description=Switch,Pushbutton, Tactile, Single Pole, 50mA,Right Angle New Description=Switch,Pushbutton, Tactile, Single Pole, 50mA,Right Angle | TE Connectivity FSMRA4JH04
+Added Component: Designator=D1(LED_VLMO1300-GS08)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/VLMO1300-GS08/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "VLMO1300-GS08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603 Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/VLMO1300-GS08/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D2(LED_VLMO1300-GS08)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/VLMO1300-GS08/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "VLMO1300-GS08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603 Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/VLMO1300-GS08/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D3(LED_VLMO1300-GS08)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/VLMO1300-GS08/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "VLMO1300-GS08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603 Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/VLMO1300-GS08/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D4(LED_VLMO1300-GS08)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/VLMO1300-GS08/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "VLMO1300-GS08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603 Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/VLMO1300-GS08/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=DS1(LCD_DLS24035B)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/DLS24035B/Elecrow/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Elecrow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DLS24035B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DLS24035B/Elecrow/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=JP1(JP 1x4 DT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Ð?c 2.54MM 1x40P Th?ng 11MM"; VariantName = "[No Variations]"
+Added Component: Designator=R1(tro smd 0603)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006910"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0603 5% 330R"; VariantName = "[No Variations]"
+Added Component: Designator=R2(tro smd 0603)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006910"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0603 5% 330R"; VariantName = "[No Variations]"
+Added Component: Designator=R3(tro smd 0603)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006910"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0603 5% 330R"; VariantName = "[No Variations]"
+Added Component: Designator=R4(tro smd 0603)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006910"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0603 5% 330R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D1-C
+Added Pin To Net: NetName=PA10 Pin=D2-C
+Added Pin To Net: NetName=GND Pin=D3-C
+Added Pin To Net: NetName=GND Pin=D4-C
+Added Pin To Net: NetName=5V Pin=DS1-J2_1
+Added Pin To Net: NetName=GND Pin=DS1-J2_2
+Added Pin To Net: NetName=CD Pin=DS1-J2_3
+Added Pin To Net: NetName=PA3 Pin=DS1-J2_4
+Added Pin To Net: NetName=PB0 Pin=DS1-J2_5
+Added Pin To Net: NetName=CMD Pin=DS1-J2_6
+Added Pin To Net: NetName=CK Pin=DS1-J2_7
+Added Pin To Net: NetName=3.3V Pin=DS1-J2_8
+Added Pin To Net: NetName=D0 Pin=DS1-J2_9
+Added Pin To Net: NetName=PA5 Pin=DS1-J2_10
+Added Pin To Net: NetName=PB5 Pin=DS1-J2_11
+Added Pin To Net: NetName=PA7 Pin=DS1-J2_12
+Added Pin To Net: NetName=PB4 Pin=DS1-J2_13
+Added Pin To Net: NetName=PB6 Pin=DS1-J2_14
+Added Pin To Net: NetName=PA4 Pin=DS1-J4_1
+Added Pin To Net: NetName=PA7 Pin=DS1-J4_2
+Added Pin To Net: NetName=PB4 Pin=DS1-J4_3
+Added Pin To Net: NetName=PA5 Pin=DS1-J4_4
+Added Pin To Net: NetName=GND Pin=DS1-SH1
+Added Pin To Net: NetName=GND Pin=DS1-SH2
+Added Pin To Net: NetName=GND Pin=DS1-SH3
+Added Pin To Net: NetName=GND Pin=DS1-SH4
+Added Pin To Net: NetName=5V Pin=JP1-1
+Added Pin To Net: NetName=PA13 Pin=JP1-2
+Added Pin To Net: NetName=PA14 Pin=JP1-3
+Added Pin To Net: NetName=GND Pin=JP1-4
+Added Pin To Net: NetName=5V Pin=R1-1
+Added Pin To Net: NetName=3.3V Pin=R2-1
+Added Pin To Net: NetName=PA9 Pin=R3-1
+Added Pin To Net: NetName=EN Pin=R4-1
+Added Net: Name=EN
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=NetD1_A Pin=R1-2
+Added Net: Name=NetD1_A
+Added Pin To Net: NetName=NetD2_A Pin=D2-A
+Added Pin To Net: NetName=NetD2_A Pin=R2-2
+Added Net: Name=NetD2_A
+Added Pin To Net: NetName=NetD3_A Pin=D3-A
+Added Pin To Net: NetName=NetD3_A Pin=R3-2
+Added Net: Name=NetD3_A
+Added Pin To Net: NetName=NetD4_A Pin=D4-A
+Added Pin To Net: NetName=NetD4_A Pin=R4-2
+Added Net: Name=NetD4_A
+Added Member To Class: ClassName=Schematic Member=Component D1 VLMO1300-GS08
+Added Member To Class: ClassName=Schematic Member=Component D2 VLMO1300-GS08
+Added Member To Class: ClassName=Schematic Member=Component D3 VLMO1300-GS08
+Added Member To Class: ClassName=Schematic Member=Component D4 VLMO1300-GS08
+Added Member To Class: ClassName=Schematic Member=Component DS1 DLS24035B
+Added Member To Class: ClassName=Schematic Member=Component JP1 JP 1x4 2.54
+Added Member To Class: ClassName=Schematic Member=Component R1 330R
+Added Member To Class: ClassName=Schematic Member=Component R2 330R
+Added Member To Class: ClassName=Schematic Member=Component R7 1k
+Added Member To Class: ClassName=Schematic Member=Component R12 1k
+Added Member To Class: ClassName=Schematic Member=Component R13 1k
+Added Member To Class: ClassName=Schematic Member=Component R14 1k
+Added Member To Class: ClassName=Schematic Member=Component R15 1k
+Added Member To Class: ClassName=Schematic Member=Component S1 FSMRA4JH04
+Added Member To Class: ClassName=Schematic Member=Component S2 FSMRA4JH04
+Added Member To Class: ClassName=Schematic Member=Component S5 FSMRA4JH04

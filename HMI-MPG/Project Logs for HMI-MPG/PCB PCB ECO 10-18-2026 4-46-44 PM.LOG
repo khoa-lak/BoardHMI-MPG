@@ -1,0 +1,60 @@
+Added Component: Designator=S1(FSMRA4JH04)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/FSMRA4JH04/TE+Connectivity/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FSMRA4JH04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FSMRA4JH04/TE+Connectivity/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=S2(FSMRA4JH04)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/FSMRA4JH04/TE+Connectivity/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FSMRA4JH04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FSMRA4JH04/TE+Connectivity/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=S3(FSMRA4JH04)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/FSMRA4JH04/TE+Connectivity/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FSMRA4JH04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FSMRA4JH04/TE+Connectivity/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=S4(FSMRA4JH04)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/FSMRA4JH04/TE+Connectivity/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FSMRA4JH04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FSMRA4JH04/TE+Connectivity/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=S5(FSMRA4JH04)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/FSMRA4JH04/TE+Connectivity/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FSMRA4JH04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FSMRA4JH04/TE+Connectivity/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=LD-BTN Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S1-3
+Added Pin To Net: NetName=GND Pin=S1-4
+Added Pin To Net: NetName=GND Pin=S2-1
+Added Pin To Net: NetName=LU-BTN Pin=S2-2
+Added Pin To Net: NetName=GND Pin=S2-3
+Added Pin To Net: NetName=GND Pin=S2-4
+Added Pin To Net: NetName=GND Pin=S3-1
+Added Pin To Net: NetName=PB13 Pin=S3-2
+Added Pin To Net: NetName=GND Pin=S3-3
+Added Pin To Net: NetName=GND Pin=S3-4
+Added Pin To Net: NetName=GND Pin=S4-1
+Added Pin To Net: NetName=PB12 Pin=S4-2
+Added Pin To Net: NetName=GND Pin=S4-3
+Added Pin To Net: NetName=GND Pin=S4-4
+Added Pin To Net: NetName=GND Pin=S5-1
+Added Pin To Net: NetName=PA0 Pin=S5-2
+Added Pin To Net: NetName=GND Pin=S5-3
+Added Pin To Net: NetName=GND Pin=S5-4
+Added Member To Class: ClassName=Schematic Member=Component S1 FSMRA4JH04
+Added Member To Class: ClassName=Schematic Member=Component S2 FSMRA4JH04
+Added Member To Class: ClassName=Schematic Member=Component S3 FSMRA4JH04
+Added Member To Class: ClassName=Schematic Member=Component S4 FSMRA4JH04
+Added Member To Class: ClassName=Schematic Member=Component S5 FSMRA4JH04

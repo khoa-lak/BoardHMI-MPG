@@ -1,0 +1,9 @@
+Added Component: Designator=USB?(USB A CN DIP)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000941"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten"; Value = "USB A Cái DIP"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Schematic Member=Component S1 FSMRA4JH04
+Added Member To Class: ClassName=Schematic Member=Component S2 FSMRA4JH04
+Added Member To Class: ClassName=Schematic Member=Component S3 FSMRA4JH04
+Added Member To Class: ClassName=Schematic Member=Component S4 FSMRA4JH04
+Added Member To Class: ClassName=Schematic Member=Component USB? USB A CN DIP

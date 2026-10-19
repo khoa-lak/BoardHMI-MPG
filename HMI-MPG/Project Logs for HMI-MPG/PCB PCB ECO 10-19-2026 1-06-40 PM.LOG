@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=PA10 Pin=H1-3
+Removed Pin From Net: NetName=PA9 Pin=H1-4
+Added Pin To Net: NetName=PA9 Pin=H1-3
+Added Pin To Net: NetName=PA10 Pin=H1-4
+Added Member To Class: ClassName=Schematic Member=Component R18 1.5k
+Added Member To Class: ClassName=Schematic Member=Component USB1 USB Mini 5p SMD
